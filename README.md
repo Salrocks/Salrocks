@@ -20,7 +20,7 @@
 
 <h2> Certifications </h2>
 
-- [CompTIA Security+](http://verify.CompTIA.org))
+- [CompTIA Security+](http://verify.CompTIA.org)
 - [CompTIA CySA+](http://verify.CompTIA.org)
 - [Google Cybersecurity Certificate](https://coursera.org/share/a8b654413a7d2fecf23e603f0ef6f51a)
 - [TryHackMe SOC Analyst](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png)
