@@ -20,11 +20,11 @@
 
 <h2> Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA Security+]((http://verify.CompTIA.org))
+- [CompTIA CySA+](http://verify.CompTIA.org)
+- [Google Cybersecurity Certificate](https://coursera.org/share/a8b654413a7d2fecf23e603f0ef6f51a)
+- [TryHackMe SOC Analyst](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png)
+- [IBM Windows Defender and Firewall](https://coursera.org/share/3f04408fd953b5b919690c26ab37986b)
 
 <h2> 🤳 Connect with me:</h2>
 
