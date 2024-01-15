@@ -4,10 +4,8 @@
 <p1>
 Hello there! I'm Sulaiman Khan, though you can simply refer to me as Sal. I hold a Bachelor of Arts degree, with a specialization in programming fundamentals, development, and a touch of Adobe expertise. I'm a highly motivated and detail-oriented individual with practical experience in various cybersecurity tools. I'm eager to embark on a career in Cybersecurity at an entry-level position.<br>
 <br>
-
 I come prepared with a strong grounding in cybersecurity principles, complemented by hands-on experience with a range of security tools, including firewalls like Cisco ASA. I'm familiar with intrusion detection and prevention systems such as Snort, TCPdump, YARA and Zeek. Knowledge of vulnerability scanners like Nessus and OpenVAS, and penetration testing tools like Metasploit and Burp Suite. I'm also proficient in security monitoring and incident response tools like Wireshark and Security Onion. <br>
 <br>
-
 My dedication lies in safeguarding organizational assets, pinpointing vulnerabilities, and implementing robust security measures. I am committed to contributing my expertise to protect against cyber threats and ensure the integrity and confidentiality of critical data.</p1>
 
   <h2>Cybersecurity Projects:👨‍💻</h2>
