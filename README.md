@@ -29,6 +29,54 @@ My dedication lies in safeguarding organizational assets, pinpointing vulnerabil
 - [TryHackMe SOC Analyst](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png)
 - [IBM Windows Defender and Firewall](https://coursera.org/share/3f04408fd953b5b919690c26ab37986b)
 
+
+<h2> Skills:😏 </h2>
+
+<h3>Coding</h3>
+ <ul>
+<li>Python, HTML, CSS, JavaScript</li>
+ </ul>
+
+
+<h3>Packet Analysis</h3>
+<ul>
+<li>Wireshark, Zeek, Snort, Brim, Burp Suite, NetworkMiner</li>
+
+   </ul>
+
+
+<h3>Frameworks</h3>
+<ul>
+<li>NIST Cybersecurity, Cyber Kill Chain, OWASP-SKF, MITRE ATT&CK</li>
+
+   
+ </ul>
+
+
+<h3>SIEM</h3>
+<ul>
+<li>Wazuh, Splunk, ELK (Elasticsearch, Logstash, Kibana)</li>
+
+   
+ </ul>
+
+
+<h3>Intelligence Tools</h3>
+<ul>
+<li>Abuse.ch, PhishTool, Yara, OpenCTI</li>
+
+   
+ </ul>
+<h3> Digital Forensics and Incident Response</h3>
+<ul>
+<li>Autopsy, Redline, KAPE, Volatility, Velociraptor</li>
+
+   
+ </ul>
+
+
+
+
 <h2>Connect with me: 🤳</h2>
 
 <a href="https://www.linkedin.com/in/sulaimanbkhan/">Linkedin </a> <br>
