@@ -1,6 +1,16 @@
-<h1>Hi, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Cloud Network Enginner</a>
 
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> About Me :👨‍🦱</h2>
+<p1>
+Hello there! I'm Sulaiman Khan, though you can simply refer to me as Sal. I hold a Bachelor of Arts degree, with a specialization in programming fundamentals, development, and a touch of Adobe expertise. I'm a highly motivated and detail-oriented individual with practical experience in various cybersecurity tools. I'm eager to embark on a career in Cybersecurity at an entry-level position.<br>
+<br>
+
+I come prepared with a strong grounding in cybersecurity principles, complemented by hands-on experience with a range of security tools, including firewalls like Cisco ASA. I'm familiar with intrusion detection and prevention systems such as Snort, TCPdump, YARA and Zeek. Knowledge of vulnerability scanners like Nessus and OpenVAS, and penetration testing tools like Metasploit and Burp Suite. I'm also proficient in security monitoring and incident response tools like Wireshark and Security Onion. <br>
+<br>
+
+My dedication lies in safeguarding organizational assets, pinpointing vulnerabilities, and implementing robust security measures. I am committed to contributing my expertise to protect against cyber threats and ensure the integrity and confidentiality of critical data.</p1>
+
+  <h2>Cybersecurity Projects:👨‍💻</h2>
 
 - <b>Windows</b>
   - [Organizational Unit modification in Active Directory](https://github.com/Salrocks/Active-Directory-OUs-modifications/tree/main)
@@ -13,7 +23,7 @@
  
 
 
-<h2> Certifications </h2>
+<h2> Certifications:🥇 </h2>
 
 - [CompTIA Security+](http://verify.CompTIA.org)
 - [CompTIA CySA+](http://verify.CompTIA.org)
@@ -21,25 +31,11 @@
 - [TryHackMe SOC Analyst](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png)
 - [IBM Windows Defender and Firewall](https://coursera.org/share/3f04408fd953b5b919690c26ab37986b)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me: 🤳</h2>
+
+<a href="https://www.linkedin.com/in/sulaimanbkhan/">Linkedin </a> <br>
+<br>
 
 
-[<img align="left" alt="Salrocks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 
-
-[linkedin]:[https://www.linkedin.com/in/sulaimanbkhan/]
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
