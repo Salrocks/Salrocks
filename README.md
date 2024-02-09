@@ -8,7 +8,7 @@ I come prepared with a strong grounding in cybersecurity principles, complemente
 <br>
 My dedication lies in safeguarding organizational assets, pinpointing vulnerabilities, and implementing robust security measures. I am committed to contributing my expertise to protect against cyber threats and ensure the integrity and confidentiality of critical data.</p1>
 
-  <h2>Cybersecurity Projects:👨‍💻</h2>
+  <h2>Projects:👨‍💻</h2>
 
 - <b>Windows</b>
   - [Organizational Unit modification in Active Directory](https://github.com/Salrocks/Active-Directory-OUs-modifications/tree/main)
