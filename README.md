@@ -27,7 +27,9 @@ My dedication lies in safeguarding organizational assets, pinpointing vulnerabil
 <ul>
   <li>Windows</li>
   <ul>
-    <li><a href="https://github.com/Salrocks/Active-Directory-OUs-modifications/tree/main"> Organizational Unit modification in Active Directory </a></li>
+    <li><a href="https://github.com/Salrocks/Active-Directory-OUs-modifications/tree/main"> Organizational Unit modification in Active Directory </a></li><br>
+     <li><a href="https://github.com/Salrocks/activedirectorychangingpasswords/blob/main/README.md"> Password Changing in Active Directory</a></li><br>
+     <li><a href="https://github.com/Salrocks/ActiveDirectoryPasswordChangewithDelegation"> Changing Password in Active Directory with Delegation</a></li
   </ul>
  
   
@@ -44,7 +46,7 @@ My dedication lies in safeguarding organizational assets, pinpointing vulnerabil
   
   <li>Kali Linux</li>
    <ul>
-    <li></li>
+    <li><a href="https://github.com/Salrocks/keylogging"> Keystroke Logging</a></li>
   </ul>
 </ul>
 
