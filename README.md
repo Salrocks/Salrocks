@@ -12,8 +12,8 @@ I’m passionate about designing, securing, and maintaining reliable network inf
 <h2> Certifications🥇 </h2>
 
 <ul>
-   <li><a href="http://verify.CompTIA.org">CompTIA Security+</a></li><br>
-    <li><a href="http://verify.CompTIA.org">CompTIA CySA+</a></li><br>
+   <li><a href="https://www.credly.com/badges/8521c271-bc4c-49b3-a55f-162ea38acd48/public_url">CompTIA Security+</a></li><br>
+    <li><a href="https://www.credly.com/badges/3fa2e4ac-3e35-404b-9321-1fc05d41bb02/public_url">CompTIA CySA+</a></li><br>
    <li><a href="https://www.credly.com/badges/23b7c516-3e22-44d8-b72e-48b7e4efa48a/public_url">Cisco Certified Network Associate (CCNA)</a></li><br>
     <li><a href="https://coursera.org/share/a8b654413a7d2fecf23e603f0ef6f51a">Google Cybersecurity Certificate</a></li><br>
     <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png">TryHackMe SOC Analyst</a></li><br>
