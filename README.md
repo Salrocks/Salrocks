@@ -1,4 +1,4 @@
-<h1>Hi👋, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Cloud Engineer</a>
+<h1>Hi👋, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Aspiring Network Engineer</a>
 
 <h2> About Me :👨‍🦱</h2>
 <p1>
