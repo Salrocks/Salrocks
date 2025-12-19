@@ -19,88 +19,68 @@ I’m passionate about designing, securing, and maintaining reliable network inf
     <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png">TryHackMe SOC Analyst</a></li><br>
 </ul>
 
-
-
-
-
   <h2>Projects👨‍💻</h2>
+
+<h3>Networking</h3>
 <ul>
-  <li>Windows</li>
+   <li>Basic Switch/Router Security</li>
+</ul>
+
+ <h3>Windows</h3>
   <ul>
     <li><a href="https://github.com/Salrocks/Active-Directory-OUs-modifications/tree/main"> Organizational Unit modification in Active Directory </a></li><br>
      <li><a href="https://github.com/Salrocks/activedirectorychangingpasswords/blob/main/README.md"> Password Changing in Active Directory</a></li><br>
-     <li><a href="https://github.com/Salrocks/ActiveDirectoryPasswordChangewithDelegation"> Changing Password in Active Directory with Delegation</a></li
+     <li><a href="https://github.com/Salrocks/ActiveDirectoryPasswordChangewithDelegation"> Changing Password in Active Directory with Delegation</a></li>
   </ul>
  
-  
-  
-  <li>MacOS</li>
-   <ul>
-    <li></li>
-  </ul>
- 
-  
-  
-  
-  
-  
-  <li>Kali Linux</li>
+<h3>Kali Linux</h3>
    <ul>
     <li><a href="https://github.com/Salrocks/keylogging"> Keystroke Logging</a></li>
   </ul>
-</ul>
 
 
 
 
-<h2> Skills:😏 </h2>
+
+<h2> Skills😏 </h2>
 
 <h3>Coding</h3>
  <ul>
-<li>Python, HTML, CSS, JavaScript</li>
+<li>Python</li>
+<li> HTML </li> 
+ <li>CSS</li>
  </ul>
 
 
 <h3>Packet Analysis</h3>
 <ul>
-<li>Wireshark, Zeek, Snort, Brim, Burp Suite, NetworkMiner</li>
-
-   </ul>
+<li>Wireshark</li>
+<li>Zeek</li>
+<li>Snort</li>
+<li>Brim</li>
+<li>Burp Suite</li>
+</ul>
 
 
 <h3>Frameworks</h3>
 <ul>
-<li>NIST Cybersecurity, Cyber Kill Chain, OWASP-SKF, MITRE ATT&CK</li>
-
-   
- </ul>
+<li>NIST Cybersecurity</li>
+<li>Cyber Kill Chain</li>
+<li>MITRE ATT&CK</li>
+    </ul>
 
 
 <h3>SIEM</h3>
 <ul>
-<li>Wazuh, Splunk, ELK (Elasticsearch, Logstash, Kibana)</li>
-
-   
- </ul>
-
-
-<h3>Intelligence Tools</h3>
-<ul>
-<li>Abuse.ch, PhishTool, Yara, OpenCTI</li>
-
-   
- </ul>
-<h3> Digital Forensics and Incident Response</h3>
-<ul>
-<li>Autopsy, Redline, KAPE, Volatility, Velociraptor</li>
-
-   
+<li>Wazuh</li>
+<li>Splunk</li>
+<li>ELK (Elasticsearch, Logstash, Kibana)</li>  
  </ul>
 
 
 
 
-<h2>Connect with me: 🤳</h2>
+<h2>Connect with me🤳</h2>
 
 <a href="https://www.linkedin.com/in/sulaimanbkhan/">Linkedin </a> <br>
 <br>
