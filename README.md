@@ -44,6 +44,17 @@ I’m passionate about designing, securing, and maintaining reliable network inf
 
 <h2> Skills😏 </h2>
 
+<h3>Networking</h3>
+<ul>
+<li>Ansible</li>
+<li>Wireshark</li>
+<li>SolarWinds</li>
+<li>Python automation (Netmiko, Paramiko, REST APIs)</li>
+<li>Linux networking (SSH, netstat, traceroute, tcpdump)</li>
+<li>Cloud networking: AWS VPCs, subnets, routing tables, NACLs, VPN</li>
+<li>Networking Protocols & Technologies: OSPF, BGP, STP/RSTP, VLANs (trunking & segmentation), EtherChannel (LACP), ACLs, NAT/PAT, HSRP/VRRP, TCP/IP, LAN/WAN</li>  
+</ul>
+
 <h3>Coding</h3>
  <ul>
 <li>Python</li>
