@@ -1,29 +1,29 @@
 <h1>Hi👋, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Aspiring Network Engineer</a>
 
-<h2> About Me :👨‍🦱</h2>
+<h2> About Me👨‍🦱</h2>
 <p1>
-Hello there! I'm Sulaiman Khan, though you can simply refer to me as Sal. I hold a Bachelor of Arts degree, with a specialization in programming fundamentals, development, and a touch of Adobe expertise. I'm a highly motivated and detail-oriented individual with practical experience in various cybersecurity tools. I'm eager to embark on a career in Cybersecurity especially in Cloud Engineering.<br>
+Hello! I’m Sulaiman Khan (Sal) — a CCNA-certified aspiring Network Engineer with a strong foundation in routing, switching, and network security. I hold a Bachelor of Arts degree with a focus on programming fundamentals and development, and I enjoy building and troubleshooting real-world network labs. <br>
 <br>
-I come prepared with a strong grounding in cybersecurity principles, complemented by hands-on experience with a range of security tools, including firewalls like Cisco ASA. I'm familiar with intrusion detection and prevention systems such as Snort, TCPdump, YARA and Zeek. Knowledge of vulnerability scanners like Nessus and OpenVAS, and penetration testing tools like Metasploit and Burp Suite. I'm also proficient in security monitoring and incident response tools like Wireshark and Security Onion. <br>
+I have hands-on experience working with VLANs, STP, OSPF, ACLs, TCP/IP, and LAN/WAN architectures, along with packet analysis and troubleshooting using Wireshark. My background in cybersecurity strengthens my networking skill set, with experience using tools such as Cisco ASA firewalls, Snort, Zeek, tcpdump, YARA, Nessus, OpenVAS, and Security Onion. <br>
 <br>
-My dedication lies in safeguarding organizational assets, pinpointing vulnerabilities, and implementing robust security measures. I am committed to contributing my expertise to protect against cyber threats and ensure the integrity and confidentiality of critical data.</p1>
+I’m passionate about designing, securing, and maintaining reliable network infrastructure, and I use this GitHub to document labs, configurations, and learning projects related to network engineering and network security. I’m actively seeking opportunities to grow as a Junior Network Engineer and contribute to stable, secure enterprise networks..</p1>
 
 
-<h2> Certifications:🥇 </h2>
+<h2> Certifications🥇 </h2>
 
 <ul>
    <li><a href="http://verify.CompTIA.org">CompTIA Security+</a></li><br>
     <li><a href="http://verify.CompTIA.org">CompTIA CySA+</a></li><br>
+   <li><a href="https://www.credly.com/badges/23b7c516-3e22-44d8-b72e-48b7e4efa48a/public_url">Cisco Certified Network Associate (CCNA)</a></li><br>
     <li><a href="https://coursera.org/share/a8b654413a7d2fecf23e603f0ef6f51a">Google Cybersecurity Certificate</a></li><br>
     <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png">TryHackMe SOC Analyst</a></li><br>
-    <li><a href="https://coursera.org/share/3f04408fd953b5b919690c26ab37986b">IBM Windows Defender and Firewall</a></li>
 </ul>
 
 
 
 
 
-  <h2>Projects:👨‍💻</h2>
+  <h2>Projects👨‍💻</h2>
 <ul>
   <li>Windows</li>
   <ul>
@@ -104,7 +104,6 @@ My dedication lies in safeguarding organizational assets, pinpointing vulnerabil
 
 <a href="https://www.linkedin.com/in/sulaimanbkhan/">Linkedin </a> <br>
 <br>
-
 
 
 
