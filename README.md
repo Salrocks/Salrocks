@@ -26,22 +26,6 @@ I’m passionate about designing, securing, and maintaining reliable network inf
    <li>Basic Switch/Router Security</li>
 </ul>
 
- <h3>Windows</h3>
-  <ul>
-    <li><a href="https://github.com/Salrocks/Active-Directory-OUs-modifications/tree/main"> Organizational Unit modification in Active Directory </a></li><br>
-     <li><a href="https://github.com/Salrocks/activedirectorychangingpasswords/blob/main/README.md"> Password Changing in Active Directory</a></li><br>
-     <li><a href="https://github.com/Salrocks/ActiveDirectoryPasswordChangewithDelegation"> Changing Password in Active Directory with Delegation</a></li>
-  </ul>
- 
-<h3>Kali Linux</h3>
-   <ul>
-    <li><a href="https://github.com/Salrocks/keylogging"> Keystroke Logging</a></li>
-  </ul>
-
-
-
-
-
 <h2> Skills😏 </h2>
 
 <h3>Networking</h3>
