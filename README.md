@@ -1,12 +1,10 @@
-<h1>Hi👋, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Aspiring Network Engineer</a>
+<h1>Hi👋, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Aspiring Cloud Engineer</a>
 
 <h2> About Me👨‍🦱</h2>
 <p1>
-Hello! I’m Sulaiman Khan (Sal) — a CCNA-certified aspiring Network Engineer with a strong foundation in routing, switching, and network security. I hold a Bachelor of Arts degree with a focus on programming fundamentals and development, and I enjoy building and troubleshooting real-world network labs. <br>
-<br>
-I have hands-on experience working with VLANs, STP, OSPF, ACLs, TCP/IP, and LAN/WAN architectures, along with packet analysis and troubleshooting using Wireshark. My background in cybersecurity strengthens my networking skill set, with experience using tools such as Cisco ASA firewalls, Snort, Zeek, tcpdump, YARA, Nessus, OpenVAS, and Security Onion. <br>
-<br>
-I’m passionate about designing, securing, and maintaining reliable network infrastructure, and I use this GitHub to document labs, configurations, and learning projects related to network engineering and network security. I’m actively seeking opportunities to grow as a Junior Network Engineer and contribute to stable, secure enterprise networks..</p1>
+Hi, I’m a technology enthusiast with a strong foundation in IT and cybersecurity. Over time, I’ve built hands-on experience working with systems, networking, and security concepts, while completing projects that reflect my ability to solve real-world technical challenges.
+
+I’m currently focused on growing into a Cloud Engineer, expanding my skills in cloud platforms, automation, and scalable infrastructure. This GitHub showcases my journey—projects, labs, and experiments that highlight both my past accomplishments and my continued learning.
 
 
 <h2> Certifications🥇 </h2>
@@ -22,57 +20,11 @@ I’m passionate about designing, securing, and maintaining reliable network inf
   <h2>Projects👨‍💻</h2>
 
 <h3>Networking</h3>
-<ul>
-   <li>Basic Switch/Router Security</li>
-</ul>
+<h3>Python</h3>
+<h3>Linux</h3>
+
 
 <h2> Skills😏 </h2>
-
-<h3>Networking</h3>
-<ul>
-<li>Ansible</li>
-<li>Wireshark</li>
-<li>SolarWinds</li>
-<li>Python automation (Netmiko, Paramiko, REST APIs)</li>
-<li>Linux networking (SSH, netstat, traceroute, tcpdump)</li>
-<li>Cloud networking: AWS VPCs, subnets, routing tables, NACLs, VPN</li>
-<li>Networking Protocols & Technologies: OSPF, BGP, STP/RSTP, VLANs (trunking & segmentation), EtherChannel (LACP), ACLs, NAT/PAT, HSRP/VRRP, TCP/IP, LAN/WAN</li>  
-</ul>
-
-<h3>Coding</h3>
- <ul>
-<li>Python</li>
-<li> HTML </li> 
- <li>CSS</li>
- </ul>
-
-
-<h3>Packet Analysis</h3>
-<ul>
-<li>Wireshark</li>
-<li>Zeek</li>
-<li>Snort</li>
-<li>Brim</li>
-<li>Burp Suite</li>
-</ul>
-
-
-<h3>Frameworks</h3>
-<ul>
-<li>NIST Cybersecurity</li>
-<li>Cyber Kill Chain</li>
-<li>MITRE ATT&CK</li>
-    </ul>
-
-
-<h3>SIEM</h3>
-<ul>
-<li>Wazuh</li>
-<li>Splunk</li>
-<li>ELK (Elasticsearch, Logstash, Kibana)</li>  
- </ul>
-
-
 
 
 <h2>Connect with me🤳</h2>
