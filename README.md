@@ -19,9 +19,9 @@ I’m currently focused on growing into a Cloud Engineer, expanding my skills in
 
   <h2>Projects👨‍💻</h2>
 
-<h3><a href="https://github.com/Salrocks/Networking_contents">Networking</h3>
-<h3><a href="https://github.com/Salrocks/Python_contents">Python</h3>
-<h3><a href="https://github.com/Salrocks/Linux_contents">Linux</a></h3>
+<h4><a href="https://github.com/Salrocks/Networking_contents">Networking</h4>
+<h4><a href="https://github.com/Salrocks/Python_contents">Python</h4>
+<h4><a href="https://github.com/Salrocks/Linux_contents">Linux</a></h4>
 
 
 <h2> Skills😏 </h2>
