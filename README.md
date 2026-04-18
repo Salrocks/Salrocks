@@ -1,10 +1,13 @@
 <h1>Hi👋, I'm Sulaiman Khan! <br> <a href="https://www.linkedin.com/in/sulaimanbkhan/">Aspiring Cloud Engineer</a>
 
 <h2> About Me👨‍🦱</h2>
-<p1>
-Hi, I’m a technology enthusiast with a strong foundation in IT and cybersecurity. Over time, I’ve built hands-on experience working with systems, networking, and security concepts, while completing projects that reflect my ability to solve real-world technical challenges.
-
-I’m currently focused on growing into a Cloud Engineer, expanding my skills in cloud platforms, automation, and scalable infrastructure. This GitHub showcases my journey—projects, labs, and experiments that highlight both my past accomplishments and my continued learning.
+Hi, I’m a technology enthusiast with a strong foundation in IT and cybersecurity, driven by a passion for understanding how systems operate, interact, and scale in real-world environments. Over time, I have developed hands-on experience working with operating systems, networking fundamentals, and security concepts, building a solid technical base that allows me to approach problems with both a practical and analytical mindset.<br>
+<br>
+Throughout my learning journey, I have completed a variety of projects and labs that reflect my ability to troubleshoot issues, implement solutions, and continuously improve system efficiency and reliability. These experiences have strengthened my understanding of core technologies while reinforcing best practices in documentation, organization, and version control using Git and GitHub.<br>
+<br>
+I am currently focused on transitioning into a Cloud Engineering role, where I am actively expanding my skill set in cloud platforms, infrastructure as code, automation, and scalable system design. I am particularly interested in building and managing environments that are resilient, efficient, and aligned with modern DevOps practices. My work emphasizes hands-on learning, real-world application, and the continuous development of skills that are relevant in today’s evolving technology landscape.<br>
+<br>
+This GitHub serves as a portfolio of my journey—featuring projects, labs, and experiments that demonstrate not only my technical capabilities, but also my commitment to growth, curiosity, and lifelong learning. Each repository represents a step forward in my development, showcasing both what I have accomplished and what I am actively working to master next.
 
 
 <h2> Certifications🥇 </h2>
