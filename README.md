@@ -24,7 +24,7 @@ This GitHub serves as a portfolio of my journey—featuring projects, labs, and 
 
 <h4><a href="https://github.com/Salrocks/Networking_contents">Networking</h4>
 <h4><a href="https://github.com/Salrocks/Python_contents">Python</h4>
-<h4><a href="https://github.com/Salrocks/Linux_contents">Linux</a></h4>
+<h4><a href="https://github.com/Salrocks/Linux_contents">Linux (Bash Scripting)</a></h4>
 <h4><a href="https://github.com/Salrocks/Git_contents">Git and Github</a></h4>
 
 
