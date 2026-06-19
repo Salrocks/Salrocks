@@ -1,44 +1,58 @@
-<h1 align="center">Hello, I'm Sulaiman Khan 👋</h1>
-<h3 align="center">Aspiring Data Engineer</h3>
+```text
+                               _____ _   _ _       ___  ________  ___  ___   _   _ 
+                              /  ___| | | | |     / _ \|_   _|  \/  | / _ \ | \ | |
+                              \ `--.| | | | |    / /_\ \ | | | .  . |/ /_\ \|  \| |
+                               `--. \ | | | |    |  _  | | | | |\/| ||  _  || . ` |
+                              /\__/ / |_| | |____| | | |_| |_| |  | || | | || |\  |
+                              \____/ \___/\_____/\_| |_/\___/\_|  |_/\_| |_/\_| \_/
+                                              K H A N
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sulaimanbkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+--------------------------------------------------------
+ [role]    Aspiring Data Engineer
+ [stack]   PostgreSQL · SQL · Pipelines
+ [status]  available for opportunities
+--------------------------------------------------------
+```
 
----
+```bash
+$ login --user sulaiman_khan
+✓ welcome back, sulaiman_khan
 
-### 👋 About Me
+$ whoami
+sulaiman_khan@aspiring-data-engineer
 
-My background started in cybersecurity and networking, where I built a strong foundation in how systems communicate and how to secure them. I'm now expanding into data engineering — learning how to move, clean, and structure data so it's reliable and ready for analysis. My current focus is PostgreSQL and SQL, with an emphasis on building real data pipelines from the ground up.
+$ cat links.txt
+linkedin → linkedin.com/in/sulaimanbkhan
 
----
-
-### 📌 Featured Projects
-
-**[Healthcare SQL Pipeline](https://github.com/Salrocks/healthcare-sql-pipeline)**
-
-- A PostgreSQL data pipeline built on the medallion architecture (Bronze → Silver → Gold), transforming a raw healthcare dataset into clean, query-ready data and a set of business-facing analytical views.
-  - Designed and implemented a 3-layer schema architecture using separate PostgreSQL schemas
-  - Cleaned and standardized raw data using regular expressions, string parsing, and null/error handling
-  - Built a reusable stored procedure to reload the Silver layer from source
-  - Delivered 8 analytical views covering aggregations, window functions, CTEs, and date-based analysis
-- Tools used: PostgreSQL · SQL · plpgsql · Git
-
-<br>
-
-**[Project Name Here](https://github.com/Salrocks/project-link)**
-
-- One or two sentence description of what this project is and what it does.
-  - Bullet point describing a key technical decision or skill demonstrated
-  - Bullet point describing another component of the project
-  - Bullet point describing the outcome or what it showcases
-- Tools used: Tool · Tool · Tool
+$ cat about.txt
+Started in cybersecurity and networking, learning how systems
+communicate and how to secure them. Now learning how to move,
+clean, and structure data so it's reliable and ready for analysis.
+```
 
 ---
 
-### 🧰 Tech Stack
+### 📂 `ls projects/`
+
+```bash
+drwxr-xr-x  healthcare-sql-pipeline/
+# PostgreSQL ETL pipeline · medallion architecture (Bronze → Silver → Gold)
+# transforming raw Kaggle healthcare data into business-ready analytics
+
+stack: postgresql · plpgsql · regex · git
+
++ 3-schema architecture isolating raw, cleaned, and analytics-ready data
++ Regex-driven data cleaning: name parsing, credential extraction, string normalization
++ Null/error correction logic for financial data integrity
++ Idempotent stored procedure for repeatable, full-refresh data loads
++ 8 analytical views — window functions, CTEs, conditional aggregation, time-series
+
+→ https://github.com/Salrocks/Healthcare_database_sql
+```
+
+---
+
+### 🧰 `cat stack.txt`
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -49,7 +63,7 @@ My background started in cybersecurity and networking, where I built a strong fo
 
 ---
 
-### 🎓 Certifications
+### 🎓 `ls certs/`
 
 | Certification | Issuer |
 |---|---|
@@ -60,7 +74,3 @@ My background started in cybersecurity and networking, where I built a strong fo
 | [TryHackMe SOC Analyst](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-50EXOJU37O.png) | TryHackMe |
 
 ---
-
-<p align="center">
-  <i>Currently focused on PostgreSQL, data pipeline design, and analytical SQL.</i>
-</p>
