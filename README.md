@@ -81,7 +81,7 @@
 
 | Project | Description |
 |---|---|
-| [Rock, Paper, Scissors](#) | CLI game using conditionals, randomization, and basic I/O |
+| [Rock, Paper, Scissors](https://github.com/Salrocks/rock_paper_scissors) | CLI game using conditionals, randomization, and basic I/O |
 
 </details>
 
