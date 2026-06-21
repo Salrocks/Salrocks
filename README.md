@@ -39,8 +39,8 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🏥 <a href="https://github.com/Salrocks/Healthcare_database_sql">CareMetrics SQL Analytics</a></h4>
-      <p>Clinical risk stratification, 30-day readmission detection, and medication adherence analysis on a healthcare dataset.</p>
+      <h4>🏥 <a href="https://github.com/Salrocks/Healthcare_database_sql">Healthcare SQL Pipeline</a></h4>
+      <p>PostgreSQL pipeline using Medallion Architecture (Bronze/Silver/Gold). Covers raw CSV ingestion, data quality testing, regex-based data cleaning, and 8 analytical views including doctor workload ranking and readmission summary.</p>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
