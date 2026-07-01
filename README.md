@@ -7,13 +7,12 @@ Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing
 ---
 
 # 👨‍💻 About Me
-
-- 🎓 **Education:** [Your Degree / University]
-- 💼 **Current Role:** [Job Title or Student]
-- 🌱 Currently learning **Cloud Computing, DevOps, AI, and Advanced Cybersecurity**
-- 🔐 Interested in **Cybersecurity, Backend Development, Automation, and Cloud Infrastructure**
-- 🚀 Always looking to build projects that solve real-world problems
-- 🤝 Open to collaboration on open-source and software development projects
+- 🎓 **Education:** Bachelor's Degree in Computer Science at Hunter College
+- 💼 **Current Role:** Program Lead at Worked | Aspiring Data Engineer
+- 🌱 **Currently Learning:** Data Engineering, Python, Databricks, SQL, Apache Spark, and Cloud Technologies
+- 📊 **Interested In:** Data Engineering, Data Pipelines, Cloud Computing, Automation, and Backend Development
+- 🚀 **Building:** Projects focused on data processing, automation, and scalable software solutions
+- 🤝 **Open To:** Collaborating on open-source projects, data engineering initiatives, and Python applications
 
 ---
 
@@ -25,8 +24,6 @@ Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing
 | AWS Certified Cloud Practitioner | AWS | ✅ |
 | Google Cybersecurity Professional Certificate | Google | ✅ |
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ |
-
-> Add or remove certifications as needed.
 
 ---
 
