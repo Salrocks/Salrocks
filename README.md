@@ -28,57 +28,13 @@ Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing
 ---
 
 # 🚀 Project Portfolio
-
 ## 💼 Personal Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| Dockerized Flask App | Flask application running in Docker | Docker, Flask |
-| AWS Deployment Scripts | Infrastructure deployment scripts | AWS, Python |
-| CI/CD Demo | GitHub Actions workflow | GitHub Actions |
-
----
-
-
-
-## 🐍 Python Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Tip Calculator ](https://github.com/Salrocks/Tip-Calculator/tree/main)| Python program that calculates how much each person should pay when splitting a restaurant bill | Python |
 |[Treasure Island](https://github.com/Salrocks/Treasure-Island/tree/main) | A text-based adventure game where the player must make the right choices to find the hidden treasure | Python |
 |[Rock, Paper, Scissors](https://github.com/Salrocks/rock_paper_scissors/tree/main)| A simple command-line implementation of the classic Rock, Paper, Scissors game | Python |
-
-<!--
-| Network Scanner | Scans local networks for active devices | Python, Scapy |
-| Web Scraper | Scrapes and exports website data | Python, BeautifulSoup |
-| File Organizer | Automatically organizes files into folders | Python |
-| Expense Tracker | CLI budgeting application | Python, SQLite |
-| Log Analyzer | Parses and analyzes log files | Python, Pandas |
-| Automation Toolkit | Collection of automation scripts | Python |
-| Discord Bot | Utility and moderation bot | Python, Discord.py |
--->
----
-
-## 🌐 Database
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript |
-| REST API | CRUD API with authentication | Flask / FastAPI |
-| Authentication System | Login & registration system | Python, SQL |
-
-
-## ☁️ ETL
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| Dockerized Flask App | Flask application running in Docker | Docker, Flask |
-| AWS Deployment Scripts | Infrastructure deployment scripts | AWS, Python |
-| CI/CD Demo | GitHub Actions workflow | GitHub Actions |
-
----
-
 
 # 💻 Tech Stack
 
