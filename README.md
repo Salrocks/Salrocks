@@ -1,7 +1,4 @@
 # Hi, I'm **Sal** 👋
-
-### Data Engineer
-
 Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing scalable data solutions, building efficient applications, and continuously expanding my knowledge of data engineering, cloud technologies, automation, and software development.
 
 ---
