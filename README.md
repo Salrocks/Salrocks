@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing
 
 # 👨‍💻 About Me
 - 🎓 **Education:** Bachelor's Degree in Computer Science at Hunter College
-- 💼 **Current Role:** Program Lead at Worked | Aspiring Data Engineer
+- 💼 **Current Role:** Aspiring Data Engineer
 - 🌱 **Currently Learning:** Data Engineering, Python, Databricks, SQL, Apache Spark, and Cloud Technologies
 - 📊 **Interested In:** Data Engineering, Data Pipelines, Cloud Computing, Automation, and Backend Development
 - 🚀 **Building:** Projects focused on data processing, automation, and scalable software solutions
