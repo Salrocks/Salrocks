@@ -79,6 +79,3 @@ Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:saudbacchus@gmail.com)
 
 
-
-## ⭐ Thanks for visiting!
-
