@@ -29,6 +29,12 @@ Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+|[Flight Activity Lakehouse]()| Batch pipeline that collects live aircraft data from the OpenSky Network API and models it into analytics-ready flight activity tables. | Python (requests), Docker, Raspberry Pi collector, GCS, PySpark, Delta Lake, dbt, Databricks Jobs |
+|[Sports Analytics Warehouse]()| Orchestrated ELT warehouse that ingests sports data with a managed connector and serves it to a thin BI layer. | Airflow, Snowflake, dbt, Airbyte or Fivetran, BI tool |
+|[Order System CDC Platform]()| AWS-native change data capture platform that streams e-commerce database changes into a queryable lakehouse. | Debezium, Terraform, AWS Glue, S3 + Iceberg, Athena, Step Functions |
+|[NYC Restaurant Health Inspections]()| Pipeline that pulls NYC restaurant inspection results from NYC Open Data and transforms them for analysis. | Python (requests), pandas, pytest, Jupyter (Anaconda), NYC Open Data Socrata API, PostgreSQL, Airflow, PyCharm |
+| [Healthcare SQL Pipeline](https://github.com/Salrocks/Healthcare_database_sql)| A PostgreSQL data pipeline that transforms a raw healthcare dataset into a clean, query-ready database and a set of business-facing analytical views, using a Bronze → Silver → Gold medallion architecture | PostgreSQL , pgAdmin , Kaggle |
+| [Finance Database Project](https://github.com/Salrocks/Finance_database_project/tree/main)| A complete PostgreSQL data pipeline around a credit card transaction dataset, using a Bronze → Silver → Gold layered architecture | PostgreSQL , pgAdmin , Kaggle |
 | [Tip Calculator ](https://github.com/Salrocks/Tip-Calculator/tree/main)| Python program that calculates how much each person should pay when splitting a restaurant bill | Python |
 |[Treasure Island](https://github.com/Salrocks/Treasure-Island/tree/main) | A text-based adventure game where the player must make the right choices to find the hidden treasure | Python |
 |[Rock, Paper, Scissors](https://github.com/Salrocks/rock_paper_scissors/tree/main)| A simple command-line implementation of the classic Rock, Paper, Scissors game | Python |
