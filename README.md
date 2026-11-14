@@ -1,15 +1,15 @@
 # Hi, I'm **Sal** 👋
-Welcome to my GitHub! I'm an aspiring Data Engineer with a passion for designing scalable data solutions, building efficient applications, and continuously expanding my knowledge of data engineering, cloud technologies, automation, and software development.
+Welcome to my GitHub! I'm an aspiring Embedded Software Engineer with a passion for building software that interacts directly with hardware. I'm currently strengthening my foundation in C++ and working toward microcontrollers, firmware, and low-level systems programming. My background in cybersecurity, networking, and Python gives me a solid technical base as I continue expanding my knowledge of embedded systems and software development.
 
 ---
 
 # 👨‍💻 About Me
 - 🎓 **Education:** Bachelor's Degree in Computer Science at Hunter College
-- 💼 **Current Role:** Aspiring Data Engineer
-- 🌱 **Currently Learning:** Data Engineering, Python, Databricks, SQL, Apache Spark, and Cloud Technologies
-- 📊 **Interested In:** Data Engineering, Data Pipelines, Cloud Computing, Automation, and Backend Development
-- 🚀 **Building:** Projects focused on data processing, automation, and scalable software solutions
-- 🤝 **Open To:** Collaborating on open-source projects, data engineering initiatives, and Python applications
+- 💼 **Current Role:** Aspiring Embedded Software Engineer
+- 📚 **Currently Learning:** Modern C++, Object-Oriented Programming (OOP), and the Standard Template Library (STL)
+- 🔌 **Interested In:** Embedded Systems, Microcontrollers, Firmware Development, and Low-Level Programming
+- 🚀 **Building:** C++ projects that grow in complexity as I learn, documented in my `cpp-fundamentals` repo
+- 🤝 **Open To:** Collaborating on C++ and embedded systems projects, and connecting with engineers in the field
 
 ---
 
